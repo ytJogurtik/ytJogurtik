@@ -5,12 +5,12 @@
 
 - 🌱 Ja preferujem pre web HTML, CSS, JS
 
-- 📫 Ako ma kontaktovať **hynek@flairleap.com**
+- 📫 Ako ma kontaktovať **guth@flowerhost.tk**
 
 <h3 align="left">Môžeš ma kontaktovať na:</h3>
 <p align="left">
-<a href="https://instagram.com/hynekfisera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hynekfisera" height="30" width="40" /></a>
-<a href="https://arfi.cz/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="G9XEd984tz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jogurtik16663/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hynekfisera" height="30" width="40" /></a>
+<a href="https://discord.gg/Wvh2VdBuxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="G9XEd984tz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Jazyky a Programy ktoré používam:</h3>
